@@ -1,4 +1,4 @@
-# FBrowser
+# FChat
 This is a simple C++ chat program built for learning purposes. The program uses Client/Server communication paradigm. The server listens to port 50885 and accepts unlimited number of connections (clients). The received message from any client is sent to all connected clients. Clients can be run from different computers in the same local or wide network, but the project was only tested using the same computer (Ubuntu 18.04.5 LTS x86_64) and different terminals for each client (127.0.0.1 loopback IP was used for the server address).
 
 
